@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcoder2021&label=Profile%20views&color=0e75b6&style=flat" alt="dcoder2021" /> </p>
 
-- 🔭 I’m currently working on **Final Research Project**
+- 🔭 I’m currently working on **Final year Research Project**
 
 - 🌱 I’m currently learning **DevOps technologies and programing concepts.**
 
 - 🤝 I’m looking for help with **DevOps technologies**
 
-- 📝 I regularly write articles on [https://knowladgeofaprogrammer.blogspot.com/](https://knowladgeofaprogrammer.blogspot.com/)
+- 📝 I regularly write articles on [Knowladge Of a Programmer](https://knowladgeofaprogrammer.blogspot.com/)
 
 - 📫 How to reach me **dimuthuepitakaduwa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BrdT4rvrwTo5U8RDdDtoGYmp3PtNFs36/view?usp=sharing](https://drive.google.com/file/d/1BrdT4rvrwTo5U8RDdDtoGYmp3PtNFs36/view?usp=sharing)
+- 📄 Know about my experiences [Dimuthu_epitakaduwa](https://drive.google.com/file/d/1BrdT4rvrwTo5U8RDdDtoGYmp3PtNFs36/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
