@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcoder2021&label=Profile%20views&color=0e75b6&style=flat" alt="dcoder2021" /> </p>
 
-- 🔭 I’m currently working on **Final year Research Project**
+- 🔭 I’m am a **fresh graduate.**
 
-- 🌱 I’m currently learning **DevOps technologies and programing concepts.**
+- 🌱 I’m currently learning **UI/UX design & development, and programing concepts.**
 
-- 🤝 I’m looking for help with **DevOps technologies**
-
-- 📝 I regularly write articles on [Knowladge Of a Programmer](https://knowladgeofaprogrammer.blogspot.com/)
+- 🤝 I’m looking for help with **UI/UX design & development & programming concepts.**
 
 - 📫 How to reach me **dimuthuepitakaduwa@gmail.com**
 
