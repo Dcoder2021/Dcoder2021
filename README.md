@@ -6,7 +6,7 @@
 
 - 🔭 Completed **BSc (Hons) in Information Technology Specialized in Software Engineering**
 
-- 🌱 I’m currently learning **Frontend development,and UI/UX design & development.**
+- 🌱 I’m currently learning **Frontend development, and UI/UX design & development.**
 
 - 🤝 I’m looking for help with **UI/UX design & development and frontend development.**
 
